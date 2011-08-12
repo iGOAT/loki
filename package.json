@@ -1,0 +1,15 @@
+{
+  "author": "Joey Nenni <joey.nenni@gmail.com> (http://igoat.net)",
+  "name": "loki",
+  "description": "node/socket.io/mootools game server",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/loki.js",
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
