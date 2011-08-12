@@ -1,6 +1,6 @@
 {
   "author": "Joey Nenni <joey.nenni@gmail.com> (http://igoat.net)",
-  "name": "Loki",
+  "name": "loki",
   "description": "JS Game Engine (MooTools, NodeJS, Socket.IO)",
   "version": "0.0.0",
   "repository": {
